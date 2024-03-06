@@ -195,6 +195,7 @@ export const osFamily = invoke(
     oracle: ['oracle'],
     osx: ['osx'],
     redhat: ['redhat', 'rhel'],
+    scientific: ['scientific', 'sc'],
     solaris: ['solaris'],
     suse: ['sles', 'suse', 'opensuse', 'opensuse-leap', 'opensuse-microos'],
     ubuntu: ['ubuntu'],
